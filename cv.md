@@ -87,7 +87,6 @@ toCamelCase("The_Stealth_Warrior")
 I want to get practical experience in Javascript project development. In my work I strive to build long-term relationships based on trust and mutual respect, both with the team and with clients. Most recently I've been working as an account manager.
 
 ***
-
 ### Interests and hobbies
 I love learning new things, making the machine work. At the institute I tried to write console programs on java, in my free time I play video-games and read. Lately I read specialized literature.
 ### Books
