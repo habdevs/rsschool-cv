@@ -1,1 +1,110 @@
-.menu__link {}
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+* {
+    padding: 0;
+    margin: 0 auto;
+}
+
+
+/* сбрасываем заголовки, списки, картинки --------------------------------*/
+
+html,
+body {
+    font-family: Montserrat;
+    color: #070707;
+    font-weight: 500;
+    background: #44475A;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+p {
+    font-weight: inherit;
+    font-size: inherit;
+}
+
+ul,
+ol,
+li {
+    list-style: none;
+}
+
+
+/*убираем декорейшн ссылок --------------------------------------------- */
+
+a {
+    text-decoration: none;
+}
+
+.container {
+    margin: 0 auto;
+    width: 1440px;
+    overflow: hidden;
+    background: #44475A;
+}
+
+.header__menu {
+    font-size: 18px;
+    line-height: 22px;
+    /* Black */
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    margin: 47px 323px 24px 276px;
+}
+
+.menu__list {
+    display: flex;
+    flex-direction: row;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.menu__item {
+    display: flex;
+    flex-direction: row;
+}
+
+.menu__link {
+    display: flex;
+    flex-direction: row;
+}
+
+.header__info {
+    display: flex;
+    flex-direction: row;
+}
+
+.header__description {
+    display: flex;
+    flex-direction: column;
+    margin: 32px 89px 67px 319px;
+    font-size: 48px;
+    width: 373px;
+}
+
+.header__profession {
+    display: flex;
+    flex-direction: row;
+    font-size: 18px;
+    font-weight: 900;
+    width: 136px;
+    margin: 39px 99px 120px 2px;
+}
+
+.header__image {
+    display: flex;
+    overflow: hidden;
+    width: 140%;
+    margin: 17px 330px 120px 1px;
+}
+
+.header__img {
+    display: flex;
+    flex-direction: row;
+    mix-blend-mode: luminosity;
+    box-sizing: border-box;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25))
+}
