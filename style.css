@@ -13,6 +13,7 @@ body {
     color: #070707;
     font-weight: 500;
     background: #44475A;
+    scroll-behavior: smooth;
 }
 
 h1,
@@ -67,7 +68,28 @@ a {
     justify-content: center;
 }
 
-.menu__item {
+
+/* Links inside the navbar */
+
+
+/* .menu__list a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 4px 6px;
+  text-decoration: none;
+}
+
+
+/* Change background on mouse-over */
+
+.menu__list a:hover {
+    background: #44475a;
+    color: #44475a;
+}
+
+*/ .menu__item {
     display: flex;
     flex-direction: row;
 }
@@ -261,3 +283,112 @@ a {
 }
 
 .code__example {}
+
+
+/* SECTION_PORTFOLIO ________________________________________________ */
+
+.portfolio {
+    display: flex;
+    flex-direction: column;
+}
+
+.portfolio__title {
+    font-size: 34px;
+    font-weight: 400;
+    margin: 30px auto;
+}
+
+.portfolio__list {}
+
+.portfolio-items {
+    display: flex;
+    flex-direction: column;
+}
+
+.project__title {
+    font-weight: 400;
+    margin: 30px auto;
+}
+
+.project__img {}
+
+.project__description {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 60%;
+    margin: 30px 200px 30px 290px;
+}
+
+
+/* FOOTER________________________________________________ */
+
+.footer {}
+
+.container {}
+
+
+/* SECTION_PORTFOLIO ______________________________________________ */
+
+.contacts {
+    display: flex;
+    flex-direction: column;
+}
+
+.contacts__title {
+    font-size: 34px;
+    font-weight: 400;
+    margin: 30px auto;
+}
+
+.contacts__description {
+    align-items: center;
+    font-size: 30px;
+    font-weight: 400;
+    margin: 30px auto;
+    justify-content: center;
+}
+
+.contact__list {
+    display: flex;
+    flex-direction: row;
+    width: 30%;
+    margin: 10px 500px 50px 500px;
+}
+
+.contact__item {}
+
+.icon__contact {}
+
+.contact__icons {}
+
+.contacts__icon {}
+
+
+/* SECTION_LOGO ______________________________________________ */
+
+.logo__item {
+    display: flex;
+    flex-direction: column;
+}
+
+.footer__title {
+    font-size: 34px;
+    font-weight: 400;
+    margin: 30px auto;
+}
+
+.items__list-logo {
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+}
+
+.item__list-content {
+    margin: 10px 20px 10px 20px;
+}
+
+.logo__url {}
+
+.logo__img {}
