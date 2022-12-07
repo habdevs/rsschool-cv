@@ -88,6 +88,9 @@ I get hands-on experience developing projects on the js stack. I create responsi
 
 I like to learn new things, make the machine work, so to speak, animate the written code user interfaces. At school I tried to write console programs in java, in my free time I mostly read psychology and business-oriented books, and lately I've been reading specialized literature about JavaScript.
 
+### Projects
+[You can see the projects in my profile](https://github.com/habdevs) [or on my website](https://habdev.ru/)
+
 ### Books
 
 - You Dont Now JS. Kyle Simpson (in progress)
