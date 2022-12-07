@@ -1,1 +1,1 @@
-[cv - markdown](https://habdevs.github.io/rsschool-cv/cv)
+[cv - markdown links](https://habdevs.github.io/rsschool-cv/cv)
