@@ -14,7 +14,7 @@
 
 ## Experience
 
-### <span>Acount Manager/ Individual Entrepreneurship / Freelance</span>
+### <span>Frontend developer/ Individual Entrepreneurship / Freelance</span>
 
 ### <span>Dec 2021 -- I am currently working</span>
 
