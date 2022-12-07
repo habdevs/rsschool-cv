@@ -93,7 +93,7 @@ I like to learn new things, make the machine work, so to speak, animate the writ
 
 ### Books
 
-- You Dont Now JS. Kyle Simpson (in progress)
+- YDNJS ES6 & Beyond . Kyle Simpson (in progress)
 - Development in JavaScript. Adam D. Scott
 - Clean Architecture. Robert Martin
 - The perfect programmer. Robert Martin
