@@ -14,7 +14,7 @@
 
 ## Experience
 
-### <span>Acount Manager/ Individual Entrepreneurship / Freelance</span>
+### <span>Frontend developer/ Individual Entrepreneurship / Freelance</span>
 
 ### <span>Dec 2021 -- I am currently working</span>
 
@@ -88,9 +88,13 @@ I get hands-on experience developing projects on the js stack. I create responsi
 
 I like to learn new things, make the machine work, so to speak, animate the written code user interfaces. At school I tried to write console programs in java, in my free time I mostly read psychology and business-oriented books, and lately I've been reading specialized literature about JavaScript.
 
+### Projects
+[You can see the projects in my profile](https://github.com/habdevs) [or on my website](https://habdev.ru/)
+
 ### Books
 
-- Development in JavaScript. Adam D. Scott, You Dont Now JS. Kyle Simpson (in progress)
+- YDNJS ES6 & Beyond . Kyle Simpson (in progress)
+- Development in JavaScript. Adam D. Scott
 - Clean Architecture. Robert Martin
 - The perfect programmer. Robert Martin
 - Theoretical minimum in Computer Science. Philo Vladston Ferreira
