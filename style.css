@@ -1,7 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 body {
 	display: flex;
 	flex-direction: column;
 	background-color: #181824;
+	list-style: none;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 14px;
+	line-height: 36px;
+	text-decoration: none;
+}
+a {
+	text-decoration: none;
+	color: #7562e0;
 }
 h2 {
 	color: #f5f5f5;
@@ -14,6 +25,138 @@ h2 {
 .contact {
 	color: blue;
 }
-.title-contact{
+.title-contact {
 	color: yellow;
+}
+
+.container {
+	margin: 0 auto;
+	max-width: 1440px;
+	background: #181824;
+	overflow: hidden;
+}
+
+.header {
+	display: flex;
+	align-items: center;
+	text-align: center;
+}
+.container {
+}
+.logo {
+	margin-left: 1px;
+	width: 100%;
+	height: 16px;
+	display: flex;
+	align-items: center;
+	text-align: center;
+}
+.nav {
+}
+.items {
+	display: flex;
+	margin-bottom: 23px;
+	flex-direction: row;
+}
+.item {
+	font-style: bold;
+	font-size: 12px;
+	list-style: none;
+	padding-right: 5px;
+}
+.info {
+}
+
+.main {
+}
+
+.hero {
+}
+.hero-title {
+}
+.info {
+}
+.h2__title-info {
+}
+.description {
+}
+.contact {
+}
+.h2 {
+}
+.title-contact {
+}
+.telegram {
+}
+.diskord {
+}
+.skills {
+}
+.title-skills {
+}
+.code {
+}
+.title-code {
+}
+.code-example {
+}
+.projects {
+}
+.title-projects {
+}
+.todo-app {
+}
+.education {
+}
+.title-education {
+}
+
+/* FOOTER */
+.footer {
+}
+.footer-contacts {
+}
+.contacts__title {
+}
+.contacts__description {
+}
+.contact__list {
+}
+.contact__item {
+}
+.icon__contact {
+}
+.contact__icons {
+}
+.contacts__icon {
+}
+.logo__item {
+}
+.footer__title {
+}
+.items__list-logo {
+}
+.item__list-content {
+}
+.logo__url {
+}
+.logo__img {
+	width: 100%;
+	height: 100px;
+}
+
+.footer__title {
+	font-size: 34px;
+	font-weight: 400;
+	margin: 30px auto;
+}
+
+.items__list-logo {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+}
+
+.item__list-content {
+	margin: 10px 20px 10px 20px;
 }
