@@ -1,5 +1,19 @@
-body{
-	
-	display: grid;
-	background: #aaaa;
+body {
+	display: flex;
+	flex-direction: column;
+	background-color: #181824;
+}
+h2 {
+	color: #f5f5f5;
+}
+
+.description {
+	color: red;
+}
+
+.contact {
+	color: blue;
+}
+.title-contact{
+	color: yellow;
 }
