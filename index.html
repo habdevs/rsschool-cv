@@ -12,8 +12,11 @@
 
     <body>
         <header class="header container">
-            <logo class="logo">
-                <a href="" class=""><img src="./img/logo.svg" alt="logo"></logo></a>
+            <div class="logo">
+                <a href="#up" class="logo-img">
+                    <img src="./img/logo.svg" alt="logo">
+                </a>
+            </div>
             <nav class="nav">
                 <ul class='items'>
                     <li class="item"><a href="#info" class="info">info</a></li>
@@ -41,7 +44,6 @@
                     upgrading brain power.
                     <br>
                     ● Excited to work with: React, Tailwind, Node.JS.
-
                 </p>
             </section>
             <section class="contact" id='contact'>
@@ -49,7 +51,7 @@
                 <p class="description contact">
                     <a href="https://t.me/habdev" class="telegram">Telegram</a>
                     <a href="" class="diskord">Discord: habdev#4488</a>
-                </p
+                </p>
             </section>
             <section class="skills" id='skills'>
                 <h2 class="h2 title-skills">Skills</h2>
@@ -61,23 +63,9 @@
                 <h2 class="h2 title-code">Code example</h2>
                 <p class="description code">
                     KATA from CODEWARS: Complete the method/function so that it
-                    <br>
-                    converts dash/underscore delimited words into camel casing.
-                    <br>
-                    The first word within the output should be capitalized only
-                    <br>
-                    if the original word was capitalized (known as Upper Camel
-                    <br>
-                    Case, also often referred to as Pascal case).
-                    Examples
-                     <br>
-                     “the-stealth-warrior” gets converted to “theStealthWarrior”
-                      <br>
-                    “The_Stealth_Warrior” gets converted to “TheStealthWarrior”
-                     <br>
                 </p>
                 <pre class='code-example'>
-                        <code>
+                    <code>
                     function toCamelCase(str){
                     return str
                     .split(/[- _]/) // splits the string into an array ['the',
@@ -94,7 +82,7 @@
                     }
                     toCamelCase("the-stealth-warrior")
                     toCamelCase("The_Stealth_Warrior")
-                        </code>
+                    </code>
                     </pre>
             </section>
             <section class="projects" id='projects'>
@@ -110,49 +98,45 @@
                 <p class="description education">
                     Ural State University of Economics Yekaterinburg, Russia
                     Management 2016-2019
-
                 </p>
             </section>
-
         </main>
         <footer class="footer container">
-				<section class="footer-contacts">
-					<h2 class="contacts__title">FOOTER</h2>
-					<h2 class="contacts__description">
-						Want to know more or just chat? <br />
-						You are welcome!
-					</h2>
-				</section>
-				<section class="logo__item">
-					<h2 class="footer__title">CREATED in 2022</h2>
-					<ul class="items__list-logo">
-                        <li class="contact__item">
-							<a href="https://t.me/habdev" class="icon__contact">
-								<img
-									src="./img/telegram.png"
-									alt="telegram"
-									class="contact__icons"
-								>
-							</a>
-						</li>
-						<li class="item__list-content">
-							<a href="https://rs.school/js/" class="logo__url">
-								<img
-									src="./img/rssSchoolLogo.png"
-									alt="rssSchoolLogo"
-									class="logo__img"
-								>
-							</a>
-						</li>
-						<li class="item__list-content">
-							<a href="https://github.com/habdevs" class="logo__url">
-								<img src="./img/GitHub.png" alt="gitHub" class="logo__img" >
-							</a>
-						</li>
-					</ul>
-				</section>
-			</footer>
-		</footer>
+            <section class="footer-contacts">
+                <h2 class="contacts__title" id='up'>Back navigation</h2>
+                <h2 class="contacts__description">
+                    Want to know more or just chat? <br />
+                    You are welcome!
+                </h2>
+            </section>
+            <section class="logo__item">
+                <h2 class="footer__title">CREATED in 2022</h2>
+                <ul class="items__list-logo">
+                    <li class="contact__item">
+                        <a href="https://t.me/habdev" class="icon__contact">
+                            <img
+                                src="./img/telegram.png"
+                                alt="telegram"
+                                class="contact__icons">
+                        </a>
+                    </li>
+                    <li class="item__list-content">
+                        <a href="https://rs.school/js/" class="logo__url">
+                            <img
+                                src="./img/rssSchoolLogo.png"
+                                alt="rssSchoolLogo"
+                                class="logo__img">
+                        </a>
+                    </li>
+                    <li class="item__list-content">
+                        <a href="https://github.com/habdevs" class="logo__url">
+                            <img src="./img/GitHub.png" alt="gitHub"
+                                class="logo__img">
+                        </a>
+                    </li>
+                </ul>
+            </section>
+        </footer>
     </body>
 
 </html>
