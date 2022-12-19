@@ -1,7 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 body {
-	display: flex;
-	flex-direction: column;
 	background-color: #181824;
 	list-style: none;
 	font-style: normal;
@@ -30,18 +28,21 @@ h2 {
 }
 
 .container {
+	display: flex;
+	flex-direction: column;
 	margin: 0 auto;
-	max-width: 1440px;
+	max-width: 600px;
 	background: #181824;
-	overflow: hidden;
+	overflow-x: hidden;
+	align-items: center;
+	justify-content: center;
 }
 
 .header {
 	display: flex;
 	align-items: center;
 	text-align: center;
-}
-.container {
+	padding-top: 30px;
 }
 .logo {
 	margin-left: 1px;
@@ -64,36 +65,7 @@ h2 {
 	list-style: none;
 	padding-right: 5px;
 }
-.info {
-}
 
-.main {
-}
-
-.hero {
-}
-.hero-title {
-}
-.info {
-}
-.h2__title-info {
-}
-.description {
-}
-.contact {
-}
-.h2 {
-}
-.title-contact {
-}
-.telegram {
-}
-.diskord {
-}
-.skills {
-}
-.title-skills {
-}
 .code {
 	font-size: 8px;
 }
@@ -102,34 +74,14 @@ h2 {
 .code-example {
 	color: white;
 }
-.projects {
-}
-.title-projects {
-}
-.todo-app {
-}
-.education {
-}
-.title-education {
-}
 
 /* FOOTER */
-.footer {
-}
-.footer-contacts {
-}
+
 .contacts__title {
 	font-size: 15px;
 }
 .contacts__description {
 	font-size: 10px;
-}
-.contact__list {
-}
-.contact__item {
-	
-}
-.icon__contact {
 }
 .contact__icons {
 	width: 50px;
@@ -140,14 +92,7 @@ h2 {
 .logo__item {
 	display: flex;
 }
-.footer__title {
-}
-.items__list-logo {
-}
-.item__list-content {
-}
-.logo__url {
-}
+
 .logo__img {
 	width: 100%;
 	height: 50px;
