@@ -8,8 +8,7 @@
 
 ## Contact me
 
-- [Telegram](https://t.me/habdev)
-- [WhatsApp](https://wa.me/+79221366620)
+- [Telegram](https://t.me/habdevs)
 - [Mail](mailto:a.hramickih@mail.com)
 
 ## Experience
@@ -18,7 +17,7 @@
 
 ### <span>Dec 2021 -- I am currently working</span>
 
-- Makeup components for the admin panel. Technologies: React, Tailwind. Development of internal service for the employees of a medical campaign. Technologies: React, Tailwind/TailwindUI.
+- Makeup components for the admin panel. Technologies: React, Tailwind. Development of internal service for the employees of a medical campaign. Technologies: React, VUE3, Tailwind/TailwindUI.
 
 ---
 
@@ -93,7 +92,7 @@ I like to learn new things, make the machine work, so to speak, animate the writ
 
 ### Books
 
-- YDNJS ES6 & Beyond . Kyle Simpson (in progress)
+- YDNJS ES6 & Beyond . Kyle Simpson
 - Development in JavaScript. Adam D. Scott
 - Clean Architecture. Robert Martin
 - The perfect programmer. Robert Martin
