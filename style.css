@@ -85,6 +85,7 @@ h2 {
 /* FOOTER */
 
 .contacts__title {
+	cursor: pointer;
 	font-size: 15px;
 }
 .contacts__description {
