@@ -27,9 +27,9 @@
 - HTML5
 - CSS3
 - BEM
-- JavaScript (basic)
-- React.js (learning)
-- Tailwind (learning)
+- JavaScript
+- React.js
+- Tailwind
 - GraphQL, Apollo, MongoDB (I will use in the future)
 - Git
 - Figma
