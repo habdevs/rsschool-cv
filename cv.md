@@ -15,7 +15,11 @@
 
 ### <span>Frontend developer/ Individual Entrepreneurship / Freelance</span>
 
-### <span>Dec 2021 -- I am currently working</span>
+### <span>Jun 2022 -- I am currently working</span>
+
+- Makeup components for the ticket system. Technologies: Vue, Vuetify, Docker.
+
+### <span>Dec 2021 -- Jun 2022</span>
 
 - Makeup components for the admin panel. Technologies: React, Tailwind. Development of internal service for the employees of a medical campaign. Technologies: React, VUE3, Tailwind/TailwindUI.
 
