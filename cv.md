@@ -27,11 +27,15 @@
 - CSS3
 - BEM
 - JavaScript
-- React.js
+- TypeScript
+- Solidity
+- React
+- VUE3
+- Vuetify
 - Tailwind
-- GraphQL, Apollo, MongoDB (I will use in the future)
 - Git
 - Figma
+- GraphQL, Apollo, MongoDB (I will use in the future)
 
 ---
 
