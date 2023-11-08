@@ -34,7 +34,7 @@ h2 {
 	max-width: 600px;
 	background: #181824;
 	overflow-x: hidden;
-	align-items: center;
+	align-items: flex-start;
 	justify-content: center;
 }
 
@@ -69,10 +69,8 @@ h2 {
 .item {
 	font-size: 12px;
 	list-style: none;
-	padding-right: 5px;
+	padding-right: 30px;
 	display: flex;
-	
-	gap: 20px;
 }
 
 .code {
