@@ -66,22 +66,7 @@
                 </p>
                 <pre class="code-example">
                     <code>
-                    function toCamelCase(str){
-                    return str
-                    .split(/[- _]/) // splits the string into an array ['the',
-                    'stealth', 'warrior']
-                    .map(
-                    // uppercase the first letters of all array elements except
-                    the first
-                    // turns ['the', 'stealth', 'warrior'] into ['the',
-                    'Stealth', 'Warrior']
-                    (word, index) =>
-                    index == 0 ? word : word[0].toUpperCase() + word.slice(1)
-                    )
-                    .join('')
-                    }
-                    toCamelCase("the-stealth-warrior")
-                    toCamelCase("The_Stealth_Warrior")
+                    const sum = (a, b) => a + b
                     </code>
                     </pre>
             </section>
